@@ -30,7 +30,7 @@
 <img src = "img/1.png" width = 100%>
 
 ### Задание 3. Удаление по TTL в Memcached
-<img src = "img/2.png" width = 100%>
+<img src = "img/4.png" width = 100%>
 
 ### Задание 4. Запись данных в Redis
 <img src = "img/3.png" width = 100%>
